@@ -15,11 +15,40 @@
     height:40 vh;
     display:flex;
     align-items:center;
-    justify-content:space-between
-    background_image
+    justify-content:space-between;
+    background-image: url(Ellipse 2.svg);
+    background-repeat:no.repeat;
+    background-position-x:right;
+    background-size:contain;
 
   }
+  header nav{
+    width: 40%
+  }
+  header div{
+    width:30%
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  header img {
+    width:18vw;
+    cursor:pointer;
+    header ul {
+    display:flex;
+    align-items:center;
+    justify-content:center;
 
+  }
+  header li{
+    margen-right:3vw;
+    font-size:1.8vw;
+    font-weight: lighter;
+    cursor:pointer;
+  }
+  }
+  
+  
 
 
   </style>
